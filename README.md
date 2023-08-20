@@ -23,7 +23,7 @@ The Amazon Clone project is a static web page that mimics the layout and design 
 
 ## Preview
 
-![Amazon Clone Preview](amazonclonepng.png)
+/images/amazonclonepng.png
 
 ## Getting Started
 
